@@ -15,7 +15,7 @@ public class WidgetFactory {
      Programming Details:
      - prompt the user for the number of widgets using pop-up boxes
      - display # of widgets, # of days, Cost of production, Cost of widgets and profit
-     - 2 or more (preferrably more) methods - at least 1 to calculate # of day and one to calculate production costs
+     - 2 or more (preferably more) methods - at least 1 to calculate # of day and one to calculate production costs
      - only WHOLE number of days, no half or partial days.
      - Output should be in proper currency form
 
@@ -28,4 +28,6 @@ public class WidgetFactory {
      Profit: $760.00
 
      */
+
+
 }
